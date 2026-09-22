@@ -131,3 +131,20 @@ small {
     margin: 40px;
     color: rgb(70, 70, 70);
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px;
+}
+
+th, td {
+    border: 1px solid white;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: orange;
+    color: white
+}
